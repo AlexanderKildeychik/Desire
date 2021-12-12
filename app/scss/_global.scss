@@ -1,6 +1,8 @@
 html,
 body {
 	height: 100%;
+	overflow-x: hidden;
+	min-width: 320px;
 }
 
 body {
